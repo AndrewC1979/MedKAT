@@ -8,6 +8,6 @@
 	<classpathentry kind="lib" path="C:/apache-uima/lib/uima-core.jar"/>
 	<classpathentry kind="lib" path="C:/MedKAT/opennlp-tools-1.4.3/lib/maxent-2.5.2.jar"/>
 	<classpathentry kind="lib" path="C:/MedKAT/opennlp-tools-1.4.3/lib/opennlp-tools-1.4.3.jar"/>
-	<classpathentry kind="lib" path="C:/MedKAT/opennlp-tools-1.4.3/lib/trove-3.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/MedKAT/opennlp-tools-1.4.3/lib/trove.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
